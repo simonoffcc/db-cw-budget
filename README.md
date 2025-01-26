@@ -86,7 +86,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## Demonstration
+### Демонстрация
 
 ![login](https://github.com/simonoffcc/db-cw-budget/blob/master/images/login.png)
 
