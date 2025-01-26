@@ -85,3 +85,16 @@ pip install -r requirements.txt
 ```
 python src/main.py
 ```
+
+## Demonstration
+
+![login](https://github.com/simonoffcc/db-cw-budget/blob/master/images/login.png)
+
+
+![main_window](https://github.com/simonoffcc/db-cw-budget/blob/master/images/main_window.png)
+
+
+![functional](https://github.com/simonoffcc/db-cw-budget/blob/master/images/functional.png)
+
+
+![admin_buttons](https://github.com/simonoffcc/db-cw-budget/blob/master/images/admin_buttons.png)
